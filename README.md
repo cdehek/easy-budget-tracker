@@ -19,18 +19,19 @@ Express.js
 ```
 
 ### Installing/Using
-```
+
 Now that you have those downloaded, using the terminal, run the following command to install all dependencies:
-``
+
+```
 npm install
 
-``
+```
 
 
 Once you have the necessary files, to get started simply run the server.js file and visit localhost:3001 to run it locally.
 or click [HERE](https://fast-ridge-68104.herokuapp.com) to see it in action!
 
-```
+
 
 
 ## Built With
