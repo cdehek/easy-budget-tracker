@@ -16,6 +16,7 @@ After downloading/cloning the repo be sure to install the following:
 ```
 Node.js
 Express.js
+MongoDB
 ```
 
 ### Installing/Using
