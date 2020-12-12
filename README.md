@@ -1,3 +1,5 @@
+# Easy Budget Tracker!
+
 This is a simple budget tracking app that allows the user to track their expenses either online or offline as well! The user is also able to download the website as an app for easy access!
 
 ![img](https://github.com/cdehek/easy-budget-tracker/blob/main/assets/images/demo_pic.PNG)
