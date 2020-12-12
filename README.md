@@ -1,6 +1,6 @@
 This is a simple budget tracking app that allows the user to track their expenses either online or offline as well! The user is also able to download the website as an app for easy access!
 
-![img](https://github.com/cdehek/easy-budget-tracker/blob/develop/Develop/public/assets/images/demoimg.PNG)
+![img](https://github.com/cdehek/easy-budget-tracker/blob/main/assets/images/demo_pic.PNG)
 
 
 ## Getting Started
@@ -25,8 +25,8 @@ npm install
 ``
 
 
-Once you have the necessary files, to get started simply run the server.js file and visit localhost:3050.
-or click [HERE](https://fast-ridge-68104.herokuapp.com)
+Once you have the necessary files, to get started simply run the server.js file and visit localhost:3001 to run it locally.
+or click [HERE](https://fast-ridge-68104.herokuapp.com) to see it in action!
 
 ```
 
@@ -34,8 +34,7 @@ or click [HERE](https://fast-ridge-68104.herokuapp.com)
 ## Built With
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
-* [MongoDB ](https://mongodb.com/)
-* [](https://expressjs.com/)
+* [MongoDB](https://mongodb.com/)
 
 
 ## Authors
